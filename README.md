@@ -17,4 +17,4 @@ send us an [email](mailto:playhydrarequests@gmail.com), [create an issue with yo
 - csgo case clicker
 - basketball stars
 - snake
-- minecraft
+- minecraft (probably a terrible ripoff version)
