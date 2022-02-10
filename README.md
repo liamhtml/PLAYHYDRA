@@ -10,7 +10,6 @@ send us an [email](mailto:playhydrarequests@gmail.com), [create an issue with yo
 - learn to fly 1, 2, 3
 - fnaf 3, 4
 - totally accurate battle simulator (probably not possible)
-- 1v1.lol updated version
 - justfall.lol
 - tanuki sunset
 - bloons td
