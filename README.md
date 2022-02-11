@@ -18,3 +18,5 @@ send us an [email](mailto:playhydrarequests@gmail.com), [create an issue with yo
 - basketball stars
 - snake
 - minecraft (probably a terrible ripoff version)
+- space invaders
+- minesweeper
