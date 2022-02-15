@@ -20,3 +20,4 @@ send us an [email](mailto:playhydrarequests@gmail.com), [create an issue with yo
 - minecraft (probably a terrible ripoff version)
 - space invaders
 - minesweeper
+- candy jump
