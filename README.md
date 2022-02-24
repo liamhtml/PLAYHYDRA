@@ -5,7 +5,7 @@ unblocked games for the students of mms
 ## shh
 if you know who we are, keep quiet
 ## adding games
-send us an [email](mailto:playhydrarequests@gmail.com), [create an issue with your request](https://github.com/liamhtml/PLAYHYDRA/issues/new?assignees=&labels=game+request&template=feature_request.md&title=), or, if you know how to code, [fork the repo and open a pull request!](https://github.com/liamhtml/PLAYHYDRA/fork)
+send us an [email](mailto:playhydrarequests@gmail.com), [create an issue with your request](https://github.com/liamhtml/PLAYHYDRA/issues/new?assignees=&labels=game+request&template=feature_request.md&title=), or, if you know how to code, [check out this guide for contributors.](https://github.com/liamhtml/PLAYHYDRA/blob/main/.github/CONTRIBUTING.md)
 ## to-add list
 - learn to fly 1, 2, 3
 - fnaf 3, 4
