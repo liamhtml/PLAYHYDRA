@@ -8,7 +8,7 @@ add an image representing the game to the [assets/images/](https://github.com/li
 ```html
 <div class="search-item">
     <img src="assets/images/game title.png" alt="Game Title" class="search-img" />
-    <a href="/game.js?title=Game Title&url=https://thegame.com/the-game/index.html">Game Title</a>
+    <a href="/game.html?title=Game Title&width=1400&height=600&url=https://thegame.com/the-game/index.html">Game Title</a>
 </div>
 ```
 then change it for the new game you're adding:
@@ -17,5 +17,7 @@ then change it for the new game you're adding:
 - the image alt attribute should be set to the title of the game, properly capitalized, punctuated, and stylized.
 - the anchor href attribute should point to a link with two params:
   - title: the full title of the game, properly capitalized, punctuated, and stylized.
+  - width: the width of the iframe that the game will be played in.
+  - height: the height of the iframe that the game will be played in.
   - url: the full link leading directly to the game for embedding in an iframe. check that you can open this raw link on your chromebook first, and that it is not blocked. if it is, it'll just be blocked on the site. to find a working link I reccommend inspecting the code of unblockedgames google sites, as often these ones work and it's just that sites.google.com is blocked.
 - the value of the anchor should be the full title of the game, properly capitalized, punctuated, and stylized.

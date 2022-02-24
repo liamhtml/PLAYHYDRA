@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="description" content="PLAYHYDRA" id="meta-description"/>
+    <meta name="keywords" content="playhydra, unblocked, unblocked playhydra" id="meta-keywords"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>PLAYHYDRA</title>
+    <link href="assets/css/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+    <div class="nav-container">
+        <a href="/"><img src="../../assets/images/playhydra.png" alt="PLAYHYDRA LOGO" title="PLAYHYDRA"
+                class="logo" /></a>
+        <nav>
+            <a href="/index.html" class="nav-item">HOME</a>
+            <a href="/about.html" class="nav-item">ABOUT</a>
+            <a href="/location.html" class="nav-item">LOCATION</a>
+        </nav>
+    </div>
+    <noscript>Sorry, you'll have to turn on JavaScript in your browser settings to access this content.</noscript>
+    <script>
+        // url params
+        let params = new URLSearchParams(document.location.search);
+        let gameTitle = params.get('title');
+        let iframeWidth = params.get('width');
+        let iframeHeight = params.get('height');
+        let gameUrl = params.get('url');
+
+        let metaDescription = document.getElementById('meta-description');
+        let metaKeywords = document.getElementById('meta-keywords');
+        let title = document.getElementsByTagName('title')[0];
+        let header = document.createElement('h1');
+        let iframe = document.createElement('iframe');
+
+        // set meta description
+        metaDescription.setAttribute('content', `Play ${gameTitle}`);
+        // set meta keywords
+        metaKeywords.setAttribute('content', `playhydra, ${gameTitle}, ${gameTitle} game, unblocked, unblocked ${gameTitle}, unblocked playhydra`);
+        // set title content
+        title.innerHTML = `${gameTitle} | PLAYHYDRA`;
+        // set header content and append to body
+        header.innerHTML = gameTitle;
+        document.body.append(header);
+        // set iframe content and append to body
+        iframe.setAttribute('src', gameUrl);
+        iframe.setAttribute('width', iframeWidth);
+        iframe.setAttribute('height', iframeHeight);
+        iframe.setAttribute('allow', 'autoplay');
+        iframe.setAttribute('scrolling', 'no');
+        iframe.setAttribute('allowfullscreen', 'yes')
+        document.body.append(iframe);
+    </script>
+    <sub><em>BROUGHT TO YOU BY THE STUDENTS OF MMS</em></sub>
+</body>
+
+</html>
