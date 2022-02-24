@@ -1,4 +1,3 @@
-# (DONT USE THIS YET ITS NOT DONE AND WONT WORK)
 # contributing
 when adding a new game, there are two steps:
 ## 1. add game image
@@ -21,3 +20,7 @@ then change it for the new game you're adding:
   - height: the height of the iframe that the game will be played in.
   - url: the full link leading directly to the game for embedding in an iframe. check that you can open this raw link on your chromebook first, and that it is not blocked. if it is, it'll just be blocked on the site. to find a working link I reccommend inspecting the code of unblockedgames google sites, as often these ones work and it's just that sites.google.com is blocked.
 - the value of the anchor should be the full title of the game, properly capitalized, punctuated, and stylized.
+## 3. check that it works!
+test your code locally and be sure that it functions properly. maybe adjust the iframe dimensions if it seems off.
+## 4. open a pr 
+finally, open a pull request, and I'll review your code. I might turn it down if I feel the game isn't a good fit for the site, or ask you to refactor some things if it doesn't work, or for other small reasons like the game title not being properly formatted. I'm a bit detail-oriented about these things!
