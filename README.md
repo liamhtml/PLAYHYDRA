@@ -11,7 +11,6 @@ send us an [email](mailto:playhydrarequests@gmail.com), [create an issue with yo
 - fnaf 3, 4
 - totally accurate battle simulator (probably not possible)
 - justfall.lol
-- tanuki sunset
 - bloons td
 - slope 2?? (don't think this exists)
 - csgo case clicker
