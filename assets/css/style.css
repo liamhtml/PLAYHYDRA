@@ -40,6 +40,7 @@ sub {
 
 body {
   background-color: #161515;
+  width: 100%;
   color: #b03232;
   padding: 0;
   margin: 0;
@@ -82,18 +83,10 @@ nav {
   margin-top: 4.3vmin;
   font-size: 23px;
   text-align: center;
+  width: auto;
 }
 
 /* IDS */
-/* censorship count */
-/* #count {
-    position: absolute;
-    left: 0;
-    right: 0;
-    bottom: 25px;
-    padding: 10px;
-    font-weight: bold;
-} */
 
 /* search */
 #searchbar {
@@ -114,7 +107,7 @@ nav {
   margin: 0;
   margin-bottom: 10px;
   padding-bottom: 0px;
-  width: 100vw;
+  width: 100%;
   height: 22vh;
   box-sizing: border-box;
 }
