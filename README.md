@@ -1,4 +1,6 @@
 # PLAYHYDRA
+[![Deploy to Heroku](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/official/heroku.svg)](https://heroku.com/deploy/?template=https://github.com/liamhtml/playhydra) [![Run on Replit](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/official/replit.svg)](https://replit.com/github/liamhtml/playhydra)
+
 unblocked games for the students of mms
 
 [proof this is the real deal](https://lps7x.csb.app/assets/css/proof.txt)
