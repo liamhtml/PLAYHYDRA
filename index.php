@@ -117,13 +117,13 @@
         <div class="search-item">
             <img src="assets/images/tanuki sunset.jpg" alt="Tanuki Sunset" class="search-img" />
             <a
-                href="/game.html?title=Tanuki Sunset&width=1400&height=600&url=https://ultravioletsw.dev/sw/hvtrs8%2F-gpaldaalymnqhwtvlgs%2Ccmm-urlmafs-5-5-6-7-57651%3B4-cwsvoo_vhgmgs-6%3B469%3A568560427%3B60%2Fvaluii%5Dswnqev.jtol">Tanuki
+                href="game.html?title=Tanuki Sunset&url=https://tanuki-sunset.vakhtangi1980.repl.co/&width=1400&height=680">Tanuki
                 Sunset</a>
         </div>
         <div class="search-item">
             <img src="assets/images/bloons td 4.jpg" alt="Bloons Tower Defense 4" class="search-img" />
             <a
-                href="/game.html?title=Bloons Tower Defense 4&width=600&height=600&url=https://tanuki-sunset.vakhtangi1980.repl.co/">Bloons
+                href="/game.html?title=Bloons Tower Defense 4&width=600&height=600&url=https://scratch.mit.edu/projects/62965100/embed">Bloons
                 Tower Defense 4</a>
         </div>
     </div>
