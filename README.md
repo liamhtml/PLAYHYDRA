@@ -10,7 +10,7 @@ if you know who we are, keep quiet
 send us an [email](mailto:playhydrarequests@gmail.com), [create an issue with your request](https://github.com/liamhtml/PLAYHYDRA/issues/new?assignees=&labels=game+request&template=feature_request.md&title=), or, if you know how to code, [check out this guide for contributors.](https://github.com/liamhtml/PLAYHYDRA/blob/main/.github/CONTRIBUTING.md)
 ## to-add list
 - learn to fly 1, 2, 3
-- fnaf 3, 4
+- fnaf 4
 - totally accurate battle simulator (probably not possible)
 - justfall.lol
 - slope 2?? (don't think this exists)

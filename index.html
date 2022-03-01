@@ -52,6 +52,10 @@
             <a href="games/fnaf-2/index.html">Five Nights at Freddy's 2</a>
         </div>
         <div class="search-item">
+            <img src="assets/images/fnaf 3.jpg" alt="Five Nights at Freddy's 3" class="search-img" />
+            <a href="game.html?title=Five Nights at Freddy's 3&url=https://scratch.mit.edu/projects/393471387/embed&height=600&width=1400">Five Nights at Freddy's 3</a>
+        </div>
+        <div class="search-item">
             <img src="assets/images/2048.png" alt="2048" class="search-img" />
             <a href="games/2048/index.html">2048</a>
         </div>
