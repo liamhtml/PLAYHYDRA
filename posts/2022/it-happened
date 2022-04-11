@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="description"
+      content="Unblocked games for the students of MMS"
+    />
+    <meta
+      name="keywords"
+      content="playhydra, unblocked games, unblocked, unblocked playhydra"
+    />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Well, it happened | PLAYHYDRA</title>
+    <link href="/assets/css/style.css" rel="stylesheet" type="text/css" />
+  </head>
+
+  <body>
+    <div class="nav-container">
+      <a href="/index.html"
+        ><img
+          src="/assets/images/playhydra.png"
+          alt="PLAYHYDRA LOGO"
+          title="PLAYHYDRA"
+          class="logo"
+      /></a>
+
+      <nav>
+        <a href="/index.html" class="nav-item">HOME</a>
+        <a href="/about.html" class="nav-item">ABOUT</a>
+        <a href="/location.html" class="nav-item">LOCATION</a>
+      </nav>
+    </div>
+
+    <h2>Well, it happened.</h2>
+    <p style="width: 800px;">
+      Today (4/11/22), the school district's tech team seems to have <em>finally</em> taken notice of this little site (which has 643.6k page views as of writing this). They've blocked the original site at <a href="https://lps7x.csb.app">lps7x.csb.app</a>!
+      <br>
+      <br>
+      To us, this is a badge of honor that we are humbled to have earned. We made it to the big leagues. We now have players across the country, and it's really so crazy to see what this has become.
+      <br>
+      <br>
+      Yes, yes, sorry to waste your time, you just want the new site link, but first it really should be emphasized how laughably simple it was to move the site. The blocking was clumsily executed and we're embarrassed on the behalf of whoever did it!
+      <br>
+      <br>
+      <strong>ANYWAYS: the new site is up at <a href="https://wqqcwh.csb.app/">https://wqqcwh.csb.app</a></strong>. Tell your friends, enjoy, and remember that the Hydra won't be killed by chopping off its head!
+    </p>
+    <br />
+      Boldly yours,
+      <br />
+      -TEAM PLAYHYDRA
+      <br>
+      <br>
+      <br>
+      <sub><em>BROUGHT TO YOU BY THE STUDENTS OF MMS</em></sub>
+    </p>
+  </body>
+</html>
