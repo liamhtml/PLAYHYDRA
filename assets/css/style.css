@@ -148,3 +148,7 @@ nav {
 img + a {
   display: block;
 }
+
+#taco > a {
+  color: #0f0f0f;
+}
