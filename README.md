@@ -1,3 +1,4 @@
+# 8/23/22: [PLAYHYDRA has been archived](https://wqqcwh.csb.app/index.html)
 # PLAYHYDRA
 *Blocked and unblocked **1** time so far*!
 
